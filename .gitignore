@@ -1,0 +1,4 @@
+env/
+Custom_user/api/__pycache__
+Custom_user/api/migrations
+Custom_user/Custom_user/__pycache__
